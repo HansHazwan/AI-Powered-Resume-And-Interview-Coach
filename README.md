@@ -2,8 +2,10 @@
 An app helping people get job by helping improve resume or interview question.
 
 ### Requirement
-- node.js 24.11.1
-- cargo 1.89.0
+- node.js v24.11.1
+- ts-node v10.9.2
+- tsc v5.9.3
 
 ### Usage
+## Backend
 ```npm run dev```
