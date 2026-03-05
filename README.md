@@ -5,6 +5,7 @@ An app helping people get job by helping improve resume or interview question.
 - node.js v24.11.1
 - ts-node v10.9.2
 - tsc v5.9.3
+- gemini-ai API key
 
 ### Usage
 ## Backend
